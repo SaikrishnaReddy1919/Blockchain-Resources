@@ -24,5 +24,5 @@ Once the pull request is approved and merged you can pull the changes from upstr
 
 ##### Follow me on [![twitter][1.1]][1]
 
-[1.1]: http://i.imgur.com/tXSoThF.png
+[1.1]: https://i.imgur.com/iYkheW1.png
 [1]: https://twitter.com/blockchain_dev2
